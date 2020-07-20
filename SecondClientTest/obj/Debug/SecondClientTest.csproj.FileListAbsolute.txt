@@ -1,0 +1,10 @@
+\\Yoda\ABC Personal\Votero\Desktop\SecondClientTest\SecondClientTest\bin\Debug\SecondClientTest.exe.config
+\\Yoda\ABC Personal\Votero\Desktop\SecondClientTest\SecondClientTest\bin\Debug\SecondClientTest.exe
+\\Yoda\ABC Personal\Votero\Desktop\SecondClientTest\SecondClientTest\bin\Debug\SecondClientTest.pdb
+\\Yoda\ABC Personal\Votero\Desktop\SecondClientTest\SecondClientTest\obj\Debug\SecondClientTest.csprojAssemblyReference.cache
+\\Yoda\ABC Personal\Votero\Desktop\SecondClientTest\SecondClientTest\obj\Debug\SecondClientTest.csproj.CoreCompileInputs.cache
+\\Yoda\ABC Personal\Votero\Desktop\SecondClientTest\SecondClientTest\obj\Debug\SecondClientTest.exe
+\\Yoda\ABC Personal\Votero\Desktop\SecondClientTest\SecondClientTest\obj\Debug\SecondClientTest.pdb
+\\Yoda\ABC Personal\Votero\Desktop\SecondClientTest\SecondClientTest\bin\Debug\Newtonsoft.Json.dll
+\\Yoda\ABC Personal\Votero\Desktop\SecondClientTest\SecondClientTest\bin\Debug\Newtonsoft.Json.xml
+\\Yoda\ABC Personal\Votero\Desktop\SecondClientTest\SecondClientTest\obj\Debug\SecondClientTest.csproj.CopyComplete
